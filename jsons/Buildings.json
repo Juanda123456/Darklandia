@@ -1,16 +1,13 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
+		"name": "Training Fields",
+		"replaces": "Barracks",
+		"uniqueTo": "Darklandia",
+		"cost": 500,
 		"science": 12,
-		"maintenance": 96,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"maintenance": 2,
+		"uniques": ["New [Military] units start with [15] Experience [in this city]", "New [Military] units gains the [Shock 1] promotion [in this city]"]
+		"requiredTech": "Bronze Working"
 	},
 	{
 		"name": "Breeders",

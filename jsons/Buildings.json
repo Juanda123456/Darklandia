@@ -3,20 +3,9 @@
 		"name": "Training Fields",
 		"replaces": "Barracks",
 		"uniqueTo": "Darklandia",
-		"cost": 500,
-		"science": 12,
+		"cost": 300,
 		"maintenance": 2,
-		"uniques": ["New [Military] units start with [15] Experience [in this city]", "New [Military] units gains the [Shock I] promotion [in this city]"]
+		"uniques": ["New [Military] units start with [20] Experience [in this city]", "New [Military] units gains the [Shock I] promotion [in this city]"]
 		"requiredTech": "Bronze Working"
-	},
-	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
 	}
 ]

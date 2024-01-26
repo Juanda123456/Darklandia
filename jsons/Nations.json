@@ -29,7 +29,7 @@
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"unique": "[+15]% Strength for units fighting in [Friendly Land] <when at war>", "[+20]% Strength <after discovering [Mathematics]> <when at war>", "[-10]% unhappiness from the number of cities"
+		"uniques": ["[+15]% Strength for units fighting in [Friendly Land] <when at war>", "[+20]% Strength <after discovering [Mathematics]> <when at war>", "[-10]% unhappiness from the number of cities"]
 		"cities": ["Dostlov","Krafe","Hothec","Yimpreg","Omasd","Uilpot","Werdom","Silmas","Tlaeare",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",

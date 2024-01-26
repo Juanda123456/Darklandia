@@ -1,17 +1,14 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
+		"name": "Classical Darklandian Soldier",
+		"unitType": "Melee",
+		"uniqueTo": "Darklandia",
+		"replaces": "Swordsman",
+		"movement": 3,
+		"strength": 16,
 		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"requiredTech": "Iron Working",
+		"requiredResource": "Iron",
+		"attackSound": "metalhit"
 	}
 ]

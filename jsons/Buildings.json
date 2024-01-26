@@ -3,8 +3,8 @@
 		"name": "Training Fields",
 		"replaces": "Barracks",
 		"uniqueTo": "Darklandia",
-		"cost": 95,
-		"hurryCostModifier": 95,
+		"cost": 70,
+		"hurryCostModifier": 70,
 		"maintenance": 2,
 		"uniques": ["New [Military] units start with [20] Experience [in this city]", "New [Melee] units gains the [Shock I] promotion [in this city]"]
 		"requiredTech": "Bronze Working"

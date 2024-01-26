@@ -1,4 +1,4 @@
-[
+9[
 	{
 		"name": "Darklandia",
 		"leaderName": "Syarin",
@@ -20,7 +20,7 @@
 		"neutralYes": ["Very well then!","We accept!","Alright!"],
 
 		"hateHello": "Hello.....",
-		"hateLetsHearIt": "Be quick!","What say you?","Go on, then."],
+		"hateLetsHearIt": ["Be quick!","What say you?","Go on, then."],
 		"hateNo": ["This is ludicrous! No!","I can't do that!","I am sorry, WHAT?!"],
 		"hateYes": ["Alright....","We accept.","Fair enough."],
 		

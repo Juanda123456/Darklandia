@@ -21,7 +21,7 @@
 
 		"hateHello": "Hello.....",
 		"hateLetsHearIt": "Be quick!","What say you?","Go on, then."],
-		"hateNo": T"This is ludicrous! No!","I can't do that!","I am sorry, WHAT?!"],
+		"hateNo": ["This is ludicrous! No!","I can't do that!","I am sorry, WHAT?!"],
 		"hateYes": ["Alright....","We accept.","Fair enough."],
 		
 		"afterPeace": "Finally, glorious peace!",

@@ -6,7 +6,7 @@
 		"replaces": "Swordsman",
 		"movement": 3,
 		"strength": 16,
-		"cost": 500,
+		"cost": 40,
 		"requiredTech": "Iron Working",
 		"requiredResource": "Iron",
 		"attackSound": "metalhit"

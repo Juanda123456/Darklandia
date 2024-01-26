@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Classical Darklandian Soldier",
-		"unitType": "Melee",
+		"unitType": "Sword",
 		"uniqueTo": "Darklandia",
 		"replaces": "Swordsman",
 		"movement": 3,
